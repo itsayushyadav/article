@@ -1,10 +1,10 @@
 # Service Oriented Architecture Report
-> ## Service-Oriented Architecture (SOA)
+## Service-Oriented Architecture (SOA)
 
 The Service-Oriented Architecture provides a framework for different services in a cloud to communicate with each other and reuse them without having to create new services.
 In order to communicate, the services will follow a set of protocols or standards provided by Service-Oriented Architecture.
 
-> ## Need for Service-Oriented Architecture
+## Need for Service-Oriented Architecture
 
 A number of services are available in cloud computing after creating multiple services.
 
@@ -12,13 +12,13 @@ But what if the user needs multiple services and they are already available in t
 
 In order to create new services that are currently available in the cloud, it requires a lot of time and effort. However, after adopting a Service Oriented Architecture all services in the same cloud are able to communicate with each other and reuse the other's code.
 
-> ## Example
+## Example
 
 ### Google Docs-
 
 Many college students and professional people use Google Docs. So, if we wanted to add any other services (such as a spelling checker) to Google Docs, we have optional add-ons that allow us to use additional services.
 
-> ## Architecture
+## Architecture
 
 ### Service Provide:- 
 
@@ -32,7 +32,7 @@ All services created by a service provider were registered in Service Direcotory
 
 Check the required services in Service Directory and reuse them.
 
-> ## Implementation
+## Implementation
 
 __FIND__ - There are different types of service consumers, essentially they are those who request services and determine whether they are available in the directory or not.
 
@@ -44,7 +44,7 @@ __REGISTER__ - The new service will be registered in the directory anytime the s
 
 - The services are registered using the Universal Description Discovery and Integration (UDDI) because it provides a standard registry format.
 
-> ## Principles of Service Oriented Architecture
+## Principles of Service Oriented Architecture
 
 1. __Standarized Service Contract__
 
@@ -70,7 +70,7 @@ If a variety of services are available in the cloud, then all the services can b
 
 The services can easily be re-used by other services.
 
-> ## Advantages of Service Oriented Architecture
+## Advantages of Service Oriented Architecture
 
 1. __Service Reusability__ - The already created services can be reused
 
@@ -84,11 +84,11 @@ The services can easily be re-used by other services.
 
 6. __Scalability__ - all the services are easily integrated with each other..
 
-> ## Disadvantagesof Service Oriented Architecture
+## Disadvantagesof Service Oriented Architecture
 
 1. __Complex Service Management__ There are a lot of services available in cloud, and it is difficult to communicate between them effectively.
 
-> ## References 
+## References 
 
 https://www.geeksforgeeks.org/service-oriented-architecture/
 https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec
